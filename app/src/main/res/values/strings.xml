@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trail1</string>
+    <string name="wanderlust">Wanderlust</string>
+    <string name="username">Username</string>
+    <string name="don_t_have_an_account_create_one_today"><![CDATA[Don\'t have an account? Create one today >]]></string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="logo">logo</string>
+</resources>
